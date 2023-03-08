@@ -26,7 +26,7 @@ Clone and install the dependencies for `BURGER_BUILDER_REACT_JS` locally:
 
 Built with:
 
-* Next.js
+* React.js
 * Redux
 * Firebase
 * Axios
